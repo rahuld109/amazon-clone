@@ -22,10 +22,10 @@ function Home() {
           />
           <Product
             id="49538094"
-            title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
-            price={17999}
+            title="Wonderchef 1000-Watt Stand Mixer (Red)"
+            price={19999}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/61CpbUwxvUL._SL1000_.jpg"
           />
         </div>
 
@@ -39,10 +39,12 @@ function Home() {
           />
           <Product
             id="23445930"
-            title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
-            price={6999}
+            title="
+            Alexa See what Alexa can do
+            All-new Echo Dot (4th Gen) | With improved bass and Alexa (Blue)"
+            price={4499}
             rating={5}
-            image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
+            image="https://m.media-amazon.com/images/I/61MbLLagiVL._AC_UY218_.jpg"
           />
           <Product
             id="3254354345"
@@ -56,8 +58,8 @@ function Home() {
         <div className="home__row">
           <Product
             id="90829332"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5120 x 1440"
-            price={79999}
+            title="Samsung LC49HG90DMUXEN 48.9-inch Ultra Wide Curved Monitor (Black)"
+            price={120000}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
           />
